@@ -1,5 +1,6 @@
 /*
  author:changsiyuan
+ creation time: 2014.11.15
  This program can help you deside when to reserve the train ticket.
  */
 package ticket;
