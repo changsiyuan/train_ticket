@@ -1,4 +1,4 @@
-` ` `
+```
 /*
  author:changsiyuan
  creation time: 2014.11.15
@@ -84,4 +84,4 @@ public class TicketSale {
         return now.getTime();
     }
 }
-` ` `
+```
